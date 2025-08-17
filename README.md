@@ -15,12 +15,12 @@ This Python project demonstrates real-time face detection using OpenCV's Haar ca
 
 ## Installation
 
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/face-detection-opencv.git
-   cd face-detection-opencv
+   git clone https://github.com/Cookies101-cookies/Face-Detector.git
+   cd face-detector.py
 
-2. **Install dependencies**:
+2. Install dependencies:
    ```bash
    pip install opencv-python
 
